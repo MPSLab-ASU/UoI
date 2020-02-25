@@ -28,7 +28,7 @@ Author: Mahesh Balasubramanian (guidance from Kris Bouchard, Prabhat, Brandon Co
 
 ## Paper 
 
-Mahesh Balasubramanian; Trevor Ruiz; Brandon Cook; Mr Prabhat; Sharmodeep Bhattacharyya; Aviral Shrivastava; Kristofer Bouchard: Scaling of Union of Intersections for Inference of Granger Causal Networks from Observational Data. In: Proceeding of the 34th IEEE International Parallel & Distributed Processing Symposium (IPDPS)
+Mahesh Balasubramanian; Trevor Ruiz; Brandon Cook; Mr Prabhat; Sharmodeep Bhattacharyya; Aviral Shrivastava; Kristofer Bouchard: "Scaling of Union of Intersections for Inference of Granger Causal Networks from Observational Data." In: Proceeding of the 34th IEEE International Parallel & Distributed Processing Symposium (IPDPS)
 
 ## Citation 
 
